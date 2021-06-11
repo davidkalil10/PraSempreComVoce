@@ -3,7 +3,9 @@ import 'package:just_audio/just_audio.dart';
 
 class PageManager {
 
-  static const url = 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3';
+ // static const url = 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3';
+  //static const url = 'https://firebasestorage.googleapis.com/v0/b/teamo-8cecd.appspot.com/o/Pra%20Sempre%20com%20Voc%C3%AA6.wav?alt=media&token=3b90ad55-9be1-4aba-b9ec-8fab39f9af40';
+  static const url = 'https://firebasestorage.googleapis.com/v0/b/teamo-8cecd.appspot.com/o/Pra%20sempre%20com%20voce%2030.mp3?alt=media&token=ed7e668f-0977-42aa-9014-4b0910c6270a';
   late AudioPlayer _audioPlayer;
   PageManager() {
     _init();
