@@ -10,12 +10,12 @@ class BotaoCustomizado extends StatelessWidget {
   final VoidCallback onPressed;
 
   BotaoCustomizado({
-    @required this.texto,
-    @required this.icone,
+    required this.texto,
+    required this.icone,
     this.corTexto = Colors.black38,
     this.corFundo = Colors.white,
     this.corIcone = Colors.black38,
-    this.onPressed
+    required this.onPressed
 });
 
 

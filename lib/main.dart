@@ -5,5 +5,6 @@ void main() {
   runApp(MaterialApp(
     title: "Pra Sempre Com Você",
     home: Home(),
+    debugShowCheckedModeBanner: false,
   ));
 }

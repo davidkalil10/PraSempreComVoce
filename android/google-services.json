@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977669313952",
+    "project_id": "teamo-8cecd",
+    "storage_bucket": "teamo-8cecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977669313952:android:5098c9254959020b1040c5",
+        "android_client_info": {
+          "package_name": "com.xxfalcoonxx.teamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977669313952-camevpf03p42busag1361bc1uennqgk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QIzOooS_JVoRWDx9W1kLPo9_KNskEKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977669313952-camevpf03p42busag1361bc1uennqgk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
